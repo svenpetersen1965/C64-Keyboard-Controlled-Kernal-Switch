@@ -8,6 +8,7 @@ Jusrt holding RESTORE for several seconds will reset the C64. The index of selec
 Watch the introduction on youtube: https://youtu.be/pfJxfMYcyzs
 
 The Kernal Switch works in conjuctuion with a Kernal Adaptor:
-https://github.com/svenpetersen1965/C64-Kernal-Adaptor-Switch-short-board-
 
-https://github.com/svenpetersen1965/C64-Kernal-Adapter-Switch-Long-Board
+https://github.com/svenpetersen1965/C64-Kernal-Adaptor-Switch-short-board- for ASSY 250469 Mainboards
+
+https://github.com/svenpetersen1965/C64-Kernal-Adapter-Switch-Long-Board for all other Mainboards
