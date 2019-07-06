@@ -12,3 +12,5 @@ The Kernal Switch works in conjuctuion with a Kernal Adaptor:
 https://github.com/svenpetersen1965/C64-Kernal-Adaptor-Switch-short-board- for ASSY 250469 Mainboards
 
 https://github.com/svenpetersen1965/C64-Kernal-Adapter-Switch-Long-Board for all other Mainboards
+
+I want to thank MindFlareRetro (https://www.youtube.com/channel/UCBbbiZC2YodIp2Pi-lywG-A/featured) for reviewing my documentation.
