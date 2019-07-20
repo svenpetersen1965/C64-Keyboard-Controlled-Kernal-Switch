@@ -14,3 +14,7 @@ https://github.com/svenpetersen1965/C64-Kernal-Adaptor-Switch-short-board- for A
 https://github.com/svenpetersen1965/C64-Kernal-Adapter-Switch-Long-Board for all other Mainboards
 
 I want to thank MindFlareRetro (https://www.youtube.com/channel/UCBbbiZC2YodIp2Pi-lywG-A/featured) for reviewing my documentation.
+
+# Known Issue
+Some games/software require an EXROM-Reset, because they change the reset vector. Then the reset does not jump, where it should jump.
+This can be solved by also holding EXROM low while the reset. One of the two reserved IO pins in the pin header can serve to assert EXROM. The software will be changed and the result will be tested.   
