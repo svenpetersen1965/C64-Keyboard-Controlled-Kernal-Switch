@@ -1,0 +1,33 @@
+      
+       Board: C64_Kernal_Switch (Keyboard controlled)
+       Rev.:  1
+  
+       Files:
+       ======
+  
+       All Gerber files are generated in extended gerber format (RS274X)
+       *.TOP        : Film top copper
+       *.BOT        :  -"- bottom copper
+       *.STC        :  -"- top soldermask 
+       *.STS        :  -"- bottom soldermask
+       *.PLC        :  -"- silk screen top
+       *.CRC        :  -"- cream top
+       *.DK         : Drills plated Through (Excellon)
+       *.NDK        : Drills not plated Through (Excellon)
+       *.OUT        : Board outline
+       
+  
+       Board Size:
+       ===========
+       Length     :   101.2 mm
+       Width      :   20.0 mm
+       Thickness  :   1.6 mm
+       Material   :   FR 4
+       Copper     :   35 um
+       Surface    :   HASL
+       
+       Remarks:
+       ========
+       Width >= 6mil
+       Distance >= 6mil
+       Drill >= 0.35mm
