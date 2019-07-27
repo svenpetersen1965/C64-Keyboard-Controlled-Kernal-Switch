@@ -21,7 +21,7 @@ Some games/software require an EXROM-Reset, because they change the reset and/or
 This can be solved by also holding EXROM low while the reset. One of the two reserved IO pins in the pin header can serve to assert EXROM. The software will be changed and the result will be tested.
 
 ## Software Rev. 0.1
-This software fixes the issue described above. An aditional conection is required. J4, Pin 5 (RS1) has to be connected to the EXROM signal (Expansion port, Pin 9, which can easily be accessed inside the C64) via a 220R resistor.
+This software fixes the issue described above. An aditional connection is required. J4, Pin 5 (RS1) has to be connected to the EXROM signal (Expansion port, Pin 9, which can easily be accessed inside the C64) via a 220R resistor. The documentation will be modified later.
 
 # REV. 1
 Revision 1 is released. The hardware is not tested, yet. Should not be a problem, since the changes are little, the design rule check has passed successfully and the gerbers were carefully checked with a gerber viewer. The documentation is still preliminary.  
