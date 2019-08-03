@@ -26,4 +26,4 @@ This can be solved by also holding EXROM low while the reset. One of the two res
 This software fixes the issue described above. An aditional connection is required. J4, Pin 5 (RS1) has to be connected to the EXROM signal (Expansion port, Pin 9, which can easily be accessed inside the C64) via a 220R resistor. The documentation has been updated.
 
 # REV. 1
-Revision 1 is released. The hardware is not tested, yet. Should not be a problem, since the changes are little, the design rule check has passed successfully and the gerbers were carefully checked with a gerber viewer. The documentation is still preliminary.  
+Revision 1 is released. The hardware is not tested, yet. Should not be a problem, since the changes are little, the design rule check has passed successfully and the gerbers were carefully checked with a gerber viewer. The documentation is still preliminary.  It can be refered to the documentation of v0.1, a 220R resistor in the EXROM cable is not required anymore.
