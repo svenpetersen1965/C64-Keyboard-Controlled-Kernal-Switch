@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.2">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -2849,8 +2849,8 @@ G = Gleichrichter</description>
 <part name="U$43" library="!GRAFIK" deviceset="IO" device=""/>
 <part name="R8" library="SMD" deviceset="R-0805" device="" value="220R"/>
 <part name="U$40" library="!GRAFIK" deviceset="OUT" device=""/>
-<part name="R9" library="SMD" deviceset="R-0805" device="" value="220R"/>
-<part name="R10" library="SMD" deviceset="R-0805" device="" value="1k"/>
+<part name="R9" library="SMD" deviceset="R-0805" device="" value="330R"/>
+<part name="R10" library="SMD" deviceset="R-0805" device="" value="n/a"/>
 <part name="U$53" library="!pownet" deviceset="GND" device=""/>
 </parts>
 <sheets>
