@@ -35,4 +35,4 @@ Board Rev. 1 already provides a current limiting resistor for an LED (R9). A val
 Board Rev. 0 does not provide this resistor. Here, a resistor has to be installed in the LED cable. DO NOT try to connect an LED without a resistor!!! Theis can damage the LED and also the processor of the Kernal Switcher.  
 
 # REV. 1
-Revision 1 is released. The hardware Rev. 1 is tested ok. The documentation is still preliminary and in process of being updarted. It can be refered to the documentation of v0.1, a 220R resistor in the EXROM cable is not required anymore.
+Revision 1 is released. The hardware Rev. 1 is tested ok. The documentation is finished.
