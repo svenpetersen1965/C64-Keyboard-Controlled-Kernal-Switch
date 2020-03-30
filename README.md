@@ -5,6 +5,8 @@ This is a Kernal Switch for the Commodore C64, which does not requires any case 
 
 Jusrt holding RESTORE for several seconds will reset the C64. The index of selected Kernal is stored non-volatile, so the last selection will be executed after a power on.
 
+Find some info on the required cable making <a href="http://tech.guitarsite.de/cable_making.html">on my website</a>
+
 Watch the introduction on youtube: https://youtu.be/pfJxfMYcyzs
 
 The Kernal Switch works in conjuctuion with a Kernal Adaptor:
