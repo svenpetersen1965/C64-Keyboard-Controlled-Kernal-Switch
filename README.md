@@ -40,4 +40,4 @@ Board Rev. 0 does not provide this resistor. Here, a resistor has to be installe
 Revision 1 is released. The hardware Rev. 1 is tested ok. The documentation is finished.
 
 # Calculation of the component prices
-The BOM v1.1 was calculated. The total price of the components is 5.98€, which does not incluse any shiping fees. 
+The BOM v1.1 was calculated. The total price of the components is 5.98€, which does not incluse any shiping fees. The cables were not calculated.
